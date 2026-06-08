@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("semak").click(function() 
+    $("#semak").click(function()
     {
         let ic = $("#ic").val();
 
